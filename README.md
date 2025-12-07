@@ -44,7 +44,7 @@
 
 ## 🔗 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/<your-link>" target="_blank">
+  <a href="https://linkedin.com/in/<[your-link](https://www.linkedin.com/in/amran-al-kamel-3211a4274/)>" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&animated=true" width="55"/>
   </a>
   <a href="https://twitter.com/<your-handle>" target="_blank">
