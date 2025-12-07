@@ -37,8 +37,7 @@
   <img src="https://skillicons.dev/icons?i=mysql&theme=light&animated=true" width="55"/>
   <img src="https://skillicons.dev/icons?i=git&theme=light&animated=true" width="55"/>
   <img src="https://skillicons.dev/icons?i=github&theme=light&animated=true" width="55"/>
-  <img src="https://skillicons.dev/icons?i=figma&theme=light&animated=true" width="55"/>
-  <img src="https://skillicons.dev/icons?i=notion&theme=light&animated=true" width="55"/>
+ 
 </p>
 
 ---
