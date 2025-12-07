@@ -50,7 +50,7 @@
   <a href="https://twitter.com/<your-handle>" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter&animated=true" width="55"/>
   </a>
-  <a href="mailto:<your-email>" target="_blank">
+  <a href="mailto:<amranalkamele11@gmail.com>" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail&animated=true" width="55"/>
   </a>
   <a href="https://github.com/Amran-Al-kamel" target="_blank">
