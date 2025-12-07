@@ -9,7 +9,7 @@
 ---
 
 ## ⚡ Languages & Frameworks
-
+<p>
   <img src="https://skillicons.dev/icons?i=html&theme=light&animated=true" width="55"/>
   <img src="https://skillicons.dev/icons?i=css&theme=light&animated=true" width="55"/>
   <img src="https://skillicons.dev/icons?i=javascript&theme=light&animated=true" width="55"/>
