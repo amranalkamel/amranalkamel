@@ -7,7 +7,6 @@
 🔥 Motivated by transforming ideas into impactful real-world solutions  
 
 ---
-
 ## ⚡ Languages & Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=html&theme=light&animated=true" width="55"/>
